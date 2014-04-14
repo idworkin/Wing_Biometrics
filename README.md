@@ -1,4 +1,4 @@
-This is a repository for a [BEACON](beacon-center.org) funded project to generate a database of images from the wings of *Drosophila melanogaster* to be used for biometric analysis, in collaboration with Dr. Gerry Dozier and Kaushik Roy at NC A&T. This repository contains scripts, some basic tutorials (for the students doing the project as well as everyone else) as well as landmark data. The raw images will be up in a public repository soon. Likely on [figshare](http://figshare.com/).
+This is a repository for a [BEACON](beacon-center.org) funded project to generate a database of images from the wings of *Drosophila melanogaster* to be used for biometric analysis. This work was performed by Anne Sonnenschein & Sudarshan Chair under the mentorship of Dr. Ian Dworkin and in collaboration with Dr. Gerry Dozier and Kaushik Roy at NC A&T. This repository contains scripts, some basic tutorials (for the students doing the project as well as everyone else) as well as landmark data. The raw images will be up in a public repository soon. Likely on [figshare](http://figshare.com/).
 
 This repository includes
 
