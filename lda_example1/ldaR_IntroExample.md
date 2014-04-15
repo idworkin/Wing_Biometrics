@@ -1,8 +1,8 @@
-# A brief tutorial into 'classification' analyses (lda, qda,...)
+# A brief tutorial into 'classification' analyses starting with linear discriminant analysis
 
 Written by Ian Dworkin -April 14 2014.
 
-This is a brief tutorial into classifiying observations into classes for purposes of future predictions. In particular we will utilize so-called **supervised learning** approaches like _linear discriminants analysis_ (lda) quadratic discriminants analysis (qda) and a number of other approaches.
+This is a brief tutorial into classifiying observations into classes for purposes of future predictions. In particular we will utilize so-called **supervised learning** approaches like _linear discriminants analysis_ (lda) get and then quadratic discriminants analysis (qda) and a number of other approaches like svm in a future tutorial.
 
 First we call the libraries we want to use
 
